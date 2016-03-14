@@ -23,7 +23,9 @@
 
 5：几个小问题?
 	A:JDK,JRE,JVM分别是什么?
+	    JDK包含JRE,JRE是运行环境,JVM是Java虚拟机,是Java跨平台的保证.
 	B:Java语言是跨平台的吗?JVM是跨平台的吗?
+	Java语言是跨平台的,但是JVM不是,由于不同平台的虚拟机
 	C:环境变量path和classpath的区别?
 
 6：练习打字
