@@ -34,6 +34,8 @@ public class IntegerDemo {
 		System.out.println(123456y);
 
 
+		System.out.println(1234);
+
 		System.out.println("12345");
 		// String -- int
 		String s = "100";
