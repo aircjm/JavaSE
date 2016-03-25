@@ -30,6 +30,11 @@ public class IntegerDemo {
 		System.out.println("s4:" + s4);
 		System.out.println("-----------------");
 
+
+		System.out.println(123456y);
+
+
+		System.out.println("12345");
 		// String -- int
 		String s = "100";
 		// 方式1
